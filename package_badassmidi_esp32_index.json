@@ -15,10 +15,11 @@
           "architecture": "esp32",
           "version": "3.1.3",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/3.1.3/esp32-3.1.3.zip",
-          "archiveFileName": "esp32-3.1.3.zip",
-          "checksum": "SHA-256:747160dbc81c6634c7bff9e8a57213e9982d52fe90d2a8f75a93a9f7b527defb",
-          "size": "25396700",
+          "url": "https://github.com/neroroxxx/esp32/archive/refs/tags/v3.1.3.zip",
+          
+          "archiveFileName": "v3.1.3.zip",
+          "checksum": "SHA-256:0b62b78ec79865aef8461bedf4523fb0dc6dd621255fa72942725b9a7b78bc56",
+          "size": "20565887",
           "help": {
             "online": ""
           },
