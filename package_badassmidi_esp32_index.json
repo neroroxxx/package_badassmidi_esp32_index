@@ -1,17 +1,17 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "name": "badassmidi",
+      "maintainer": "BadassMIDI.com",
+      "websiteURL": "http://badassmidi.com",
+      "email" : "thumb-ciphers.0h@icloud.com",
       "help": {
         "online": "http://esp32.com"
       },
       "platforms": [
         
         {
-          "name": "esp32",
+          "name": "BMC for ESP32",
           "architecture": "esp32",
           "version": "3.1.3",
           "category": "ESP32",
