@@ -13,12 +13,12 @@
         {
           "name": "BMC for ESP32",
           "architecture": "esp32",
-          "version": "3.1.31",
+          "version": "3.1.32",
           "category": "ESP32",
-          "url": "https://github.com/neroroxxx/esp32/archive/refs/tags/v3.1.31.zip",
-          "archiveFileName": "v3.1.31.zip",
-          "checksum": "SHA-256:ef3c6589437efaeb975ea56339959c8f5db89f276bfa2c97d0f8cb1d6d7e65b5",
-          "size": "33763828",
+          "url": "https://github.com/neroroxxx/esp32/archive/refs/tags/v3.1.32.zip",
+          "archiveFileName": "v3.1.32.zip",
+          "checksum": "SHA-256:14f3c32fd5a992fbdcf3c18b5510562a43382452e1d8ff340fdea904a555c007",
+          "size": "34499562",
           "help": {
             "online": ""
           },
